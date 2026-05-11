@@ -19,32 +19,28 @@
 ### 🛠️ 技术栈
 
 **后端开发**
-- 语言：Python, Java, Node.js, Go
-- 框架：Spring Boot, Django, Flask, Express
+- 语言：Python, Java, Node.js, Rust
+- 框架：Spring Boot, Express
 - 数据库：MySQL, PostgreSQL, MongoDB, Redis
 - 消息队列：RabbitMQ, Kafka
 
 **前端开发**
 - 框架：React, Vue.js, Next.js
-- 样式：CSS3, Sass, Tailwind CSS
+- 样式：CSS3, Sass
 - 工具：Webpack, Vite, TypeScript
 
 **DevOps & 工具**
-- 容器化：Docker, Kubernetes
+- 容器化：Docker
 - CI/CD：GitHub Actions, Jenkins
-- 云服务：AWS, 阿里云
+- 云服务：Vercel, 阿里云
 - 版本控制：Git, GitHub
-- 其他：Linux, Nginx, Elasticsearch
+- 其他：Linux, Nginx
 
 ### 📊 GitHub 统计
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaka1027&show_icons=true&theme=tokyonight&hide_border=true&locale=cn)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaka1027&layout=compact&theme=tokyonight&hide_border=true&locale=cn)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaka1027&theme=tokyonight&hide_border=true&locale=cn)
 
 </div>
 
@@ -105,7 +101,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
   ---
 
-  ![Visitor Count](https://profile-counter.glitch.me/kaka1027/count.svg)
+
 
   ⭐️ From [kaka1027](https://github.com/kaka1027)
 
